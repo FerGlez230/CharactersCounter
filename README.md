@@ -3,7 +3,7 @@ Compare the eficience of paralel programming in Java by implementing methods as 
 
 
 ## Technologies
-Project is created with:
+Project was created with:
 * Java JDK 17 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 * I use NetBeans IDE 12.4 https://netbeans.apache.org/download/nb14/nb14.html
 
